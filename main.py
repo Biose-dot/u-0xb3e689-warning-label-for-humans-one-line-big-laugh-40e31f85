@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "WARNING: This human runs on caffeine, spite, and unread notifications. Do not shake, poke before coffee, or ask 'are you mad?' after midnight."
+ENTRY = "WARNING: This human runs on caffeine, spite, and 47 unread notifications. Do not shake, do not poke before coffee, and never ask 'are you mad?' after 2 a.m."
 
 
 def main():
