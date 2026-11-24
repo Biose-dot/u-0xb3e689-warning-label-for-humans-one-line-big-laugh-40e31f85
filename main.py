@@ -4,11 +4,11 @@
 Writes the entry text (no trailing newline, nothing else) to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
-A label that reads like a real safety warning, with the laugh landing in the last clause: the danger is not the human, it is asking twice.
+A label that reads like a real safety warning — 'contents under pressure' — with the laugh landing in the last clause: the danger is not the human, it is asking twice.
 """
 import os
 
-ENTRY = 'WARNING: This human runs on caffeine, spite, and four hours of sleep. Do not shake, do not update before coffee, and never ask twice if they are okay.'
+ENTRY = 'WARNING: Contents under pressure: one human, powered by caffeine and spite, running on four hours of sleep. Do not shake. Do not ask twice if they are okay.'
 
 
 def main() -> None:
